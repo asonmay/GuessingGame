@@ -30,4 +30,4 @@ In Visual Studio: open `GuessingGame.sln` and press F5.
 
 ## Tools
 
-I did not use any tools, just my brain.
+I used no tools for the programming of this game, just my brain. I did, however, use claude for the making of this README file.
